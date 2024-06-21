@@ -8,7 +8,7 @@ A passionate fullStack WebDeveloper (for now)
 [![trophy](https://github-profile-trophy.vercel.app/?username=christmp19&theme=onedark)](https://github.com/christmp19)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Digital Library]
+- 🔭 I’m currently working on **Digital Library**
 - 🌱 I’m currently learning **React JS**
 - 💬 Ask me about **Python, PHP, JavaScript, HTML, CSS**
 - 📫 How to reach me **christmp19@gmail.com**
@@ -19,6 +19,7 @@ A passionate fullStack WebDeveloper (for now)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/christmp19)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/christ_mp5)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christ_mp5)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-christie-mpassi.vercel.app)
 
 ## 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -42,6 +43,12 @@ A passionate fullStack WebDeveloper (for now)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 
 ## 📊 GitHub Stats:
 ![Christie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=christmp19&show_icons=true&theme=radical)
