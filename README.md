@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Christie MPASSI</h1>
-  <p>A passionate fullStack WebDeveloper (for now)</p>
+  <h2>A passionate fullStack WebDeveloper (for now)</h2>
 </div>
 ![Profile views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/christmp19&query=$.public_repos&label=Profile%20views&logo=github&style=flat)
 
