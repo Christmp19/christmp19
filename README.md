@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Christie MPASSI</h1>
-  <h2>A passionate fullStack WebDeveloper (for now)</h2>
+  <h2>A passionate fullStack WebDeveloper</h2>
 </div>
 
 ![Profile views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/christmp19&query=$.public_repos&label=Profile%20views&logo=github&style=flat)
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Digital Library**
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS, FLUTTER AND REACT NATIVE**
 - 💬 Ask me about **Python, PHP, JavaScript, HTML, CSS**
 - 📫 How to reach me **christmp19@gmail.com**
 - ⚡ Fun fact **Fun fact is the fun fact about me**
