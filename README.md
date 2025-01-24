@@ -57,5 +57,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christmp19&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats:
-![Test Image](https://via.placeholder.com/150)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christmp19&theme=radical)
+
 
